@@ -1,0 +1,22 @@
+{
+  "name": "shadowizardjjjjjjfffff",
+  "version": "1.0.0",
+  "description": "add awesome shadowz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPForman/NPM-Package-shadowizard.git"
+  },
+  "keywords": [
+    "shadowize"
+  ],
+  "author": "jf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPForman/NPM-Package-shadowizard/issues"
+  },
+  "homepage": "https://github.com/JPForman/NPM-Package-shadowizard#readme"
+}
